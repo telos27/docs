@@ -12,4 +12,4 @@ Linux test
 * ssh @192.168.42.1, password: milkv
 * should be able to login into Linux system
 
-SD card is mountable: mount /dev/emmc0p1 /mnt/sd1
+SD card is mountable: mkdir /mnt/sd1; mount /dev/mmcblk0p1 /mnt/sd1
