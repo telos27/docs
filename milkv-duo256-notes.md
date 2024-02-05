@@ -9,7 +9,7 @@ Linux test
 * red LED should turn on, then blue LED should flash
 * install RNDIS driver on Windows (pseudo Ethernet over USB)
 * ping 192.168.42.1 should work
-* ssh @192.168.42.1, password: milkv
+* ssh root@192.168.42.1, password: milkv
 * should be able to login into Linux system
 
 SD card is mountable: mkdir /mnt/sd1; mount /dev/mmcblk0p1 /mnt/sd1
